@@ -89,4 +89,4 @@ PS: If you're going to download the full project please use your on firebase API
 
 - You can also use my firebase if you wish!
 
-# ▷ Author(s): F.O.G_ntp(nguyenthanhphong)
+# ▷ Author: F.O.G_ntp(nguyenthanhphong)
