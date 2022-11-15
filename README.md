@@ -1,9 +1,8 @@
-<h1 align="center"><span><img src="https://img.shields.io/badge/InstaApp%20-%20Social%20Media%20Application-282C34?logo=Instagram&logoColor=E4405F" alt="HTML5 logo" title="HTML5" height="45" /></span>
-</h1>
-<h3 align="center">A social media app built with Kotlin (Android Studio) with multiple features</h3>
-<h3 align="center">👉 If you like this repo, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈.</h3>
+<h3 align="center"><span><img src="https://img.shields.io/badge/InstaApp%20-%20Social%20Media%20Application-282C34?logo=Instagram&logoColor=E4405F" alt="HTML5 logo" title="HTML5" height="38" /></span>
+</h3>
+<h4 align="center">A social media app built with Kotlin (Android Studio) with multiple features</h3>
 
-# ▷ Screenshots:
+### ▷ Screenshots:
 
 ![splash](https://user-images.githubusercontent.com/99815527/170834196-6c5e96c0-0432-4a47-9874-bf2ff5427fb4.jpg)
 ![login](https://user-images.githubusercontent.com/99815527/170835571-312e4765-3509-41c9-b95c-d702573f99d7.jpg)
@@ -20,7 +19,7 @@
 
 
 
-# ▷ Features:
+### ▷ Features:
 
 - Sign up using Firebase Authentication & save user data to Firebase Database.
 - Sign in using Firebase.
@@ -46,7 +45,7 @@
 - Implement Story Features - Next Story, Previous Sory, Display Viewed by People.
 - Manage UI for Already Seen Stories & for New Stories.
 
-# ▷ About Application:
+### ▷ About Application:
 
 ▷ Create an android app like instagram
 
@@ -65,7 +64,7 @@
 
 PS: If you're going to download the full project please use your on firebase API, the one in the project will NOT be mantained and the app may not work.
 
-# ▷ Installation:
+### ▷ Installation:
 
 #### 1. [Setup Android Studio & Kotlin](https://developer.android.com/studio/install)
 
@@ -89,4 +88,4 @@ PS: If you're going to download the full project please use your on firebase API
 
 - You can also use my firebase if you wish!
 
-# ▷ Author: F.O.G_ntp(nguyenthanhphong)
+### ▷ Author: F.O.G_ntp(nguyenthanhphong)
